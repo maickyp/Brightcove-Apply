@@ -1,6 +1,6 @@
 # Brightcove API Assessment
 
-This little project is intended for an job application.
+This little project is intended for a job application.
 
 Access to Brightcove API and retrieves information from its database and store it in csv file.
 
